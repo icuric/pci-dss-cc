@@ -1,0 +1,2 @@
+Web application currently contains the checker that creates custom tailored self assessment questionares based on the specific organizations level (full SAQA to SAQD levels) which helps organizations to determine their compliance level with the help of an online application. It also contains detailed documentation about PCI DSS standard in Croatian language. This is an english version of our original croatian project  http://code.google.com/p/pci-dss-norma/
+Web application can be found on address: http://arka.foi.hr/WebDiP/2009_projekti/WebDiP2009_06/PCI%20DSS/index.php
